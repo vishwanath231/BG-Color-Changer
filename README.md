@@ -1,4 +1,4 @@
-<h1 align="center">Accordion</h1>
+<h1 align="center">BG Color Changer</h1>
 
 
 **Languages**
